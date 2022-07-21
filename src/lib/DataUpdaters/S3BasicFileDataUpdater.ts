@@ -29,8 +29,6 @@ export default class S3BasicFileDataUpdater implements DataUpdaterInterface {
 
       return;
     }
-
-    await this.hideToken(tokenId);
   }
 
   protected async revealToken(tokenId: BigNumber): Promise<void> {
