@@ -9,12 +9,12 @@ This project was created for educational purposes, please refer to the [LICENCE]
 
 Using NPM:
 ```
-npm i @hashlips-lab/collection-data-updater
+npm i @RamiDebbas/collection-data-updater
 ```
 
 Using Yarn:
 ```
-yarn add @hashlips-lab/collection-data-updater
+yarn add @RamiDebbas/collection-data-updater
 ```
 
 ## Projects using this library
